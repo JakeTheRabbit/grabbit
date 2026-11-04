@@ -2363,7 +2363,7 @@ dependencies = [
  "tauri-plugin-opener",
  "tauri-plugin-single-instance",
  "tokio",
- "windows 0.61.3",
+ "windows 0.62.2",
  "xcap",
 ]
 
